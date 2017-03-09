@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CheckEditText">
+        <attr name="matchType" format="string" />
+        <attr name="errorMsg" format="string" />
+        <attr name="openShake" format="boolean"/>
+    </declare-styleable>
+</resources>
